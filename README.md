@@ -11,9 +11,9 @@ and will be rendered to beautiful HTML when you visit your GitHub repo.
 ## Student Information
 Please also edit _README.md_ and replace your instructor's name and NetID with your own:
 
-_Student name_: Dan WALLACH
+_Student name_: Keren Zhou
 
-_Student NetID_: dwallach
+_Student NetID_: kz21
 
 Your NetID is typically your initials and a numeric digit. That's
 what we need here.
