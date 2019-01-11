@@ -22,44 +22,36 @@ _If you contacted us in advance and we approved a late submission,
 please cut-and-paste the text from that email here._
 
 ## Problem 1
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: Documents
 - Assumptions:
-  - explain_your_assumptions
+  - Some people want to change laws to change their business from illegal to legal.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Documents.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - People who want to change the files.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Isolate the system in a place without internet connection.
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: Grading
 - Assumptions:
-  - explain_your_assumptions
+  - Some students may exchange answers. 
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The fairness of homework grading, which protects students who finish homeworks by themselves and punishes those which cheat.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Cheating students. 
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
-
+  - Use a system to calculate the similiarities among students and manually check thoese with high similarity.
+  
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: When we park our cars in a public parking garage or an oil station, we need to prevent our assests in the car from being stolen.
 - Assumptions:
-  - explain_your_assumptions
+  - The public parking garage or oil station is not safe, and we have a plenty of assets in the car.
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Personal assets such as phones, laptops, credit cards, etc.
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Theives who have utilities to break into the car and grab assets.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - We can put large bags in the back trunk and bring phones and Carry credit cards with us.
+  - We can upgrade car windows to be more hard and anti-theft, but it will cost a large amount of money.
 
