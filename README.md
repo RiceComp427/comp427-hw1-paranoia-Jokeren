@@ -24,24 +24,25 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: Documents
 - Assumptions:
-  - Some people want to change laws to change their business from illegal to legal.
+  - Some people want to steal their competitors' secret documents stored in the law firm.
 - Assets:
-  - Documents.
+  - Important documents about sensitive legal, ﬁnancial, or political matters.
 - Threats:
-  - People who want to change the files.
+  - People who want to steal the files by hacking into the law firm's IT system.
 - Countermeasures:
-  - Isolate the system in a place without internet connection.
+  - Isolate the system in a place without internet connection, which costs a large amount money, as we need to build or rent the place. The solution is very safe because hackers can only invade our system by social engineering. 
+  - Give security department the right to enter the place, which costs only a small change, but it is highly probably that hackers can steal the tokens and pretend as security staffs.
 
 ## Problem 2
 - Scenario: Grading
 - Assumptions:
-  - Some students may exchange answers. 
+  - Some students may cheat. Our anti-cheating system could effectvely detect similar answers.
 - Assets:
-  - The fairness of homework grading, which protects students who finish homeworks by themselves and punishes those which cheat.
+  - The fairness of homework grading, which protects students who finish homework by themselves and punishes those which cheat.
 - Threats:
-  - Cheating students. 
+  - Students who cheat by exchanging answers or copying from the web.
 - Countermeasures:
-  - Use a system to calculate the similiarities among students and manually check thoese with high similarity.
+  - Use a system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Since we already have an anti-cheating system, the solution is both money saving and effective.
   
 ## Problem 3
 - Scenario: When we park our cars in a public parking garage or an oil station, we need to prevent our assests in the car from being stolen.
@@ -52,6 +53,6 @@ please cut-and-paste the text from that email here._
 - Threats:
   - Theives who have utilities to break into the car and grab assets.
 - Countermeasures:
-  - We can put large bags in the back trunk and bring phones and Carry credit cards with us.
-  - We can upgrade car windows to be more hard and anti-theft, but it will cost a large amount of money.
+  - We can put large bags in the back trunk and bring phones and carry credit cards with us. The solution literally does not have any cost, while it is not safe at all if the thives steal our keys or break our trunks.
+  - We can upgrade car windows to be more hard and anti-theft, which is promising but requires some money.
 
