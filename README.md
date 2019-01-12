@@ -26,33 +26,32 @@ please cut-and-paste the text from that email here._
 - Assumptions:
   - Some people want to steal their competitors' secret documents stored in the law firm.
 - Assets:
-  - Important documents about sensitive legal, ﬁnancial, or political matters.
+  - Important documents about sensitive legal, financial, or political matters.
 - Threats:
   - People who want to steal the files by hacking into the law firm's IT system.
 - Countermeasures:
-  - Isolate the system in a place without internet connection, which costs a large amount money, as we need to build or rent the place. The solution is very safe because hackers can only invade our system by social engineering. 
-  - Give security department the right to enter the place, which costs only a small change, but it is highly probably that hackers can steal the tokens and pretend as security staffs.
-
+  - Isolate the system in a place without an internet connection, which costs a substantial amount of money, as we need to build or rent the place. The solution is very safe because hackers can only invade our system through social engineering.
+  - Give security department the right to enter the place, which costs only a small change, but it is highly probable that hackers can steal the tokens and pretend as security staffs.
+  
 ## Problem 2
 - Scenario: Grading
 - Assumptions:
-  - Some students may cheat. Our anti-cheating system could effectvely detect similar answers.
+  - Some students may cheat. Our anti-cheating system could effectively detect similar answers.
 - Assets:
   - The fairness of homework grading, which protects students who finish homework by themselves and punishes those which cheat.
 - Threats:
   - Students who cheat by exchanging answers or copying from the web.
 - Countermeasures:
-  - Use a system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Since we already have an anti-cheating system, the solution is both money saving and effective.
+  - Use a system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Since we already have an anti-cheating system, the solution is both money saving and useful.
   
 ## Problem 3
-- Scenario: When we park our cars in a public parking garage or an oil station, we need to prevent our assests in the car from being stolen.
+- Scenario: When we park our cars in a public parking garage or an oil station, we need to prevent our assets in the vehicle from being stolen.
 - Assumptions:
-  - The public parking garage or oil station is not safe, and we have a plenty of assets in the car.
+  - The public parking garage or oil station is not safe, and we have plenty of assets in the car.
 - Assets:
   - Personal assets such as phones, laptops, credit cards, etc.
 - Threats:
-  - Theives who have utilities to break into the car and grab assets.
+  - Thieves who have utilities to break into the car and grab assets.
 - Countermeasures:
-  - We can put large bags in the back trunk and bring phones and carry credit cards with us. The solution literally does not have any cost, while it is not safe at all if the thives steal our keys or break our trunks.
+  - We can put large bags in the back trunk and bring phones and carry credit cards with us. The solution does not have any cost, while it is not safe at all if the thieves steal our keys or break our trunks.
   - We can upgrade car windows to be more hard and anti-theft, which is promising but requires some money.
-
