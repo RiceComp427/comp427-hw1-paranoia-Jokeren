@@ -25,18 +25,21 @@ please cut-and-paste the text from that email here._
 - Scenario: Documents
 - Assumptions:
   - Some people want to steal their competitors' secret documents stored in the law firm.
+  - An IT manager has all the rights to operate the IT system.
 - Assets:
   - Important documents about sensitive legal, financial, or political matters.
 - Threats:
   - People who want to steal the files by hacking into the law firm's IT system.
 - Countermeasures:
   - Isolate the system in a place without an internet connection, which costs a substantial amount of money, as we need to build or rent the place. The solution is very safe because hackers can only invade our system through social engineering.
+  - Distribute the system into several pieces and assign each part different passwords. The solution can be quickly implemented and has a little cost, but does not completely protect the system.
   - Give security department the right to enter the place, which costs only a small change, but it is highly probable that hackers can steal the tokens and pretend as security staffs.
   
 ## Problem 2
 - Scenario: Grading
 - Assumptions:
-  - Some students may cheat. Our anti-cheating system could effectively detect similar answers.
+  - Some students may cheat.
+  - Our anti-cheating system could effectively detect similar answers.
 - Assets:
   - The fairness of homework grading, which protects students who finish homework by themselves and punishes those which cheat.
 - Threats:
@@ -47,7 +50,8 @@ please cut-and-paste the text from that email here._
 ## Problem 3
 - Scenario: When we park our cars in a public parking garage or an oil station, we need to prevent our assets in the vehicle from being stolen.
 - Assumptions:
-  - The public parking garage or oil station is not safe, and we have plenty of assets in the car.
+  - The public parking garage or oil station is not safe.
+  - We have plenty of assets in the car.
 - Assets:
   - Personal assets such as phones, laptops, credit cards, etc.
 - Threats:
