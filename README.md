@@ -24,28 +24,32 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: Documents
 - Assumptions:
-  - Some people want to steal their competitors' secret documents stored in the law firm.
-  - An IT manager has all the rights to operate the IT system.
+  - Some people want to steal secret documents stored in the law firm.
+  - An IT manager has all the rights to operate, move, and close the IT system.
 - Assets:
   - Important documents about sensitive legal, financial, or political matters.
 - Threats:
-  - People who want to steal the files by hacking into the law firm's IT system.
+  - People who want to steal their competitors' secret files.
+  - Hackers who want to take files to make profits.
 - Countermeasures:
-  - Isolate the system in a place without an internet connection, which costs a substantial amount of money, as we need to build or rent the place. The solution is very safe because hackers can only invade our system through social engineering.
-  - Distribute the system into several pieces and assign each part different passwords. The solution can be quickly implemented and has a little cost, but does not completely protect the system.
-  - Give security department the right to enter the place, which costs only a small change, but it is highly probable that hackers can steal the tokens and pretend as security staffs.
+  - Isolate the system in a warehouse without internet connections, which costs a substantial amount of money, as we need to build or rent the warehouse. The solution is relatively safe because hackers cannot attack the system through a virus or malicious software unless they enter the warehouse and transfer files to their disks.
+  - Distribute the system into several pieces and assign each part different passwords. The solution can be quickly implemented and has a little cost but does not completely protect the system. Hackers can hack into each system or derive to steal the documents.
+  - Only give some staff the right to access the IT system, which costs only a small change. But the solution is highly vulnerable as hackers can steal the tokens from the staff.
   
 ## Problem 2
 - Scenario: Grading
 - Assumptions:
   - Some students may cheat.
-  - Our anti-cheating system could effectively detect similar answers.
+  - An anti-cheating system could effectively detect similar answers.
 - Assets:
   - The fairness of homework grading, which protects students who finish homework by themselves and punishes those which cheat.
 - Threats:
-  - Students who cheat by exchanging answers or copying from the web.
+  - Students who cheat by exchanging answers, copying from the web, or stealing other students' answers.
+  - Students who bribe other TAs to obtain high scores.
 - Countermeasures:
-  - Use a system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Since we already have an anti-cheating system, the solution is both money saving and useful.
+  - Buy an anti-cheating system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Because we only need to pay for the system once, the solution is both money saving and useful. However, as far as I know, only very few systems can identify answers copied from the web.
+  - Swap each TA's homework to check if the scores are reasonable. In this way, we could prevent the bribing phenomenon to some extent.
+  - Let the teacher of the course examine every student's homework, which costs a significant amount of time.
   
 ## Problem 3
 - Scenario: When we park our cars in a public parking garage or an oil station, we need to prevent our assets in the vehicle from being stolen.
@@ -57,5 +61,6 @@ please cut-and-paste the text from that email here._
 - Threats:
   - Thieves who have utilities to break into the car and grab assets.
 - Countermeasures:
-  - We can put large bags in the back trunk and bring phones and carry credit cards with us. The solution does not have any cost, while it is not safe at all if the thieves steal our keys or break our trunks.
+  - We can put large bags in the back trunk and bring phones and credit cards with us. The solution does not take any cost, while it is not safe at all if the thieves steal our keys or break our trunks.
   - We can upgrade car windows to be more hard and anti-theft, which is promising but requires some money.
+  - Always avoid free parking garage and instead pay for garages that have security guards. 
