@@ -97,6 +97,7 @@ please cut-and-paste the text from that email here._
   - Thieves who have utilities to break into the car and grab assets.
   
 - Countermeasures:
+
   In general, we can avoid a free parking garage and instead pay for garages that have security guards. 
   
   - Confidentiality
