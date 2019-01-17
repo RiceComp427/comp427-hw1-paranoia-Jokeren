@@ -57,16 +57,31 @@ please cut-and-paste the text from that email here._
 - Assumptions:
   - Some students may cheat.
   - An anti-cheating system could effectively detect similar answers.
+  - The school has a database that holds scores of each student.
 - Assets:
-  - The fairness of homework grading, which protects students who finish homework by themselves and punishes those which cheat.
+  - The fairness of homework grading. We need to ensure:
+    1. Integrity. Scores can only be changed by TAs and the teacher of the course.
+    2. Authenticity. Students who cheat will be punished.
+    3. Availability. We always keep a copy of each student' homework.
+    
 - Threats:
   - Students who cheat by exchanging answers, copying from the web, or stealing other students' answers.
   - Students who bribe other TAs to obtain high scores.
-- Countermeasures:
-  - Buy an anti-cheating system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Because we only need to pay for the system once, the solution is both money saving and useful. However, as far as I know, only very few systems can identify answers copied from the web.
-  - Swap each TA's homework to check if the scores are reasonable. In this way, we could prevent the bribing phenomenon to some extent.
-  - Let the teacher of the course examine every student's homework, which costs a significant amount of time.
+  - Students who hack into our grading system to change scores.
   
+- Countermeasures:
+  - Authenticity
+  
+  Buy an anti-cheating system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Because we only need to pay for the system once, the solution is both money saving and useful. However, as far as I know, only very few systems can identify answers copied from the web. In addition, we would like to swap each TA's homework to check if the scores are reasonable. In this way, we could prevent the bribing phenomenon to some extent.
+
+  - Integrity
+  
+  After grading, TAs should send scores to the teacher. And the teacher stores scores in a database of which only himself has a password. Since we already have a database, the solution is cheap and effective.
+  
+  - Availability
+  
+  Take a photo or scan each homework before giving them back to students, which has only a little cost.
+
 ## Problem 3
 - Scenario: When we park our cars in a public parking garage or an oil station, we need to prevent our assets in the vehicle from being stolen.
 - Assumptions:
