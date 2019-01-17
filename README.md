@@ -102,12 +102,12 @@ please cut-and-paste the text from that email here._
   
   - Confidentiality
   
-    We can set up passwords for our laptops and phones. Besides, we can turn on remote service to control our devices in case that thieves steal our devices and try to decipher the passwords. The solution only needs a little intellectual cost.
+  We can set up passwords for our laptops and phones. Besides, we can turn on remote service to control our devices in case that thieves steal our devices and try to decipher the passwords. The solution only needs a little intellectual cost.
     
   - Availability
   
-    We can put large bags in the back trunk and bring phones and credit cards with us. The solution does not take any cost, while it is not safe at all if the thieves steal our keys or break our trunks.
+  We can put large bags in the back trunk and bring phones and credit cards with us. The solution does not take any cost, while it is not safe at all if the thieves steal our keys or break our trunks.
     
   - Integrity
   
-    We can upgrade car windows to be more hard and anti-theft, which is promising but requires some money.
+  We can upgrade car windows to be more hard and anti-theft, which is promising but requires some money.
