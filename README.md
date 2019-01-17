@@ -24,33 +24,35 @@ please cut-and-paste the text from that email here._
 ## Problem 1
 - Scenario: Documents
 - Assumptions:
-  - Some people want to steal secret, forge, or destroy documents stored in the law firm.
+  - Some people want to steal, forge, or destroy documents stored in the law firm.
   - An IT manager has all the rights to operate, move, and close the IT system.
-  - All the documents are stored in a database which is on a storage cluster which is physically safe. In other words, we have security guards to protect the cluster.
+  - All the documents are stored in a database which is on a storage cluster. We have security guards protecting the cluster.
+  
 - Assets:
   - Important documents about sensitive legal, financial, or political matters. We need to ensure:
-    1. Confidentiality. Some documents can only be visible be a particular group of people.
+    1. Confidentiality. Some documents can only be visible to a particular group of people.
     2. Integrity. No one but the owners of the documents could make changes.
     3. Authenticity. Third parties are not able to forge the documents.
     4. Availability. The IT system always keeps a copy of every document, unless the owner requires to delete it.
   
 - Threats:
   - People who want to steal their competitors' secret files.
-  - People who want to forge the documents.
+  - People who want to forge documents.
   - People who want to destroy the database.
   - Hackers who want to take files to make profits.
+  
 - Countermeasures:
   - Confidentiality and Integrity.
   
-  We can isolate the system in a warehouse without internet connections, which costs a substantial amount of money, as we need to build or rent the warehouse. In addition, we only give some staff the right to access the IT system. The solution is relatively safe because hackers cannot attack the system through a virus or malicious software unless they enter the warehouse and transfer files to their disks. But the solution is vulnerable when hackers steal the tokens from the staff and know where the warehouse locates.
+  We can isolate the system in a warehouse without internet connections, which costs a substantial amount of money, as we need to build or rent the warehouse. In addition, we only give some staff the right to access the IT system. The solution is relatively safe because hackers cannot attack the system through a virus or malicious software unless they enter the warehouse and transfer files to their disks. But the solution is vulnerable when hackers steal the tokens from the staff and know where the warehouse is located.
   
   - Authenticity.
   
-  We can assign each document a uniform code bar that can only be read by machines in the law firm company, which requires high cost but is quite effective.
+  We can assign each document an unique code bar that can only be read by machines in the law firm company, which requires high cost but is quite effective.
  
   - Availability. 
   
-  To prevent the system from being destroyed, we distribute the system into several pieces and always keep a copy of each document. The solution can be quickly implemented and does not need high cost. However, it slows down the database access and updates time. For an access request, the system first locates which databases have the required data; for an update request, the copy of the document also needs to be updated.
+  To prevent the system from being destroyed, we distribute the system into several pieces and always keep a copy of each document. The solution can be quickly implemented and does not need high cost. However, it slows down the access and updates time. For an access request, the system first locates which databases have the required data; for an update request, the copy of the document also needs to be updated.
   
 ## Problem 2
 - Scenario: Grading
@@ -58,6 +60,7 @@ please cut-and-paste the text from that email here._
   - Some students may cheat.
   - An anti-cheating system could effectively detect similar answers.
   - The school has a database that holds scores of each student.
+  
 - Assets:
   - The fairness of homework grading. We need to ensure:
     1. Integrity. Scores can only be changed by TAs and the teacher of the course.
@@ -68,11 +71,12 @@ please cut-and-paste the text from that email here._
   - Students who cheat by exchanging answers, copying from the web, or stealing other students' answers.
   - Students who bribe other TAs to obtain high scores.
   - Students who hack into our grading system to change scores.
+  - Students who change answers after getting back homework and request a higher grade.
   
 - Countermeasures:
   - Authenticity
   
-  Buy an anti-cheating system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Because we only need to pay for the system once, the solution is both money saving and useful. However, as far as I know, only very few systems can identify answers copied from the web. In addition, we would like to swap each TA's homework to check if the scores are reasonable. In this way, we could prevent the bribing phenomenon to some extent.
+  Buy an anti-cheating system to calculate the similarities among students and manually check those with high similarities. We punish cheating students by letting them fail. Because we only need to pay for the system once, the solution is both money saving. However, as far as I know, only very few systems can identify answers copied from the web. In addition, we would like to swap each TA's homework to check if the scores are reasonable. In this way, we could prevent the bribing phenomenon.
 
   - Integrity
   
@@ -80,17 +84,18 @@ please cut-and-paste the text from that email here._
   
   - Availability
   
-  Take a photo or scan each homework before giving them back to students, which has only a little cost.
+  Take a photo or scan each homework before giving them back to students, which causes only a little cost.
 
 ## Problem 3
 - Scenario: When we park our cars in a public parking garage or an oil station, we need to prevent our assets in the vehicle from being stolen.
 - Assumptions:
   - The public parking garage or oil station is not safe.
   - We have plenty of assets in the car.
+  
 - Assets:
   - Personal assets such as the car itself, phones, laptops, credit cards, etc. We need to ensure:
     1. Confidentiality. Documents stored in phones and laptop will not be exposed to thieves.
-    2. Integrity. Documents stored in phones and laptop will not be changed to thieves.
+    2. Integrity. Documents stored in phones and laptop will not be changed by thieves.
     3. Availability. Thieves are not able to break our cars to steal the assets.
     
 - Threats:
@@ -102,7 +107,7 @@ please cut-and-paste the text from that email here._
   
   - Confidentiality
   
-  We can set up passwords for our laptops and phones. Besides, we can turn on remote service to control our devices in case that thieves steal our devices and try to decipher the passwords. The solution only needs a little intellectual cost.
+  We can set up passwords for our laptops and phones. Besides, we can turn on remote service to control our devices in case that thieves steal our devices and try to decipher the passwords. The solution only needs some intellectual efforts.
     
   - Availability
   
