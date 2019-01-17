@@ -88,10 +88,25 @@ please cut-and-paste the text from that email here._
   - The public parking garage or oil station is not safe.
   - We have plenty of assets in the car.
 - Assets:
-  - Personal assets such as phones, laptops, credit cards, etc.
+  - Personal assets such as the car itself, phones, laptops, credit cards, etc. We need to ensure:
+    1. Confidentiality. Documents stored in phones and laptop will not be exposed to thieves.
+    2. Integrity. Documents stored in phones and laptop will not be changed to thieves.
+    3. Availability. Thieves are not able to break our cars to steal the assets.
+    
 - Threats:
   - Thieves who have utilities to break into the car and grab assets.
+  
 - Countermeasures:
-  - We can put large bags in the back trunk and bring phones and credit cards with us. The solution does not take any cost, while it is not safe at all if the thieves steal our keys or break our trunks.
-  - We can upgrade car windows to be more hard and anti-theft, which is promising but requires some money.
-  - Always avoid free parking garage and instead pay for garages that have security guards. 
+  In general, we can avoid a free parking garage and instead pay for garages that have security guards. 
+  
+  - Confidentiality
+  
+    We can set up passwords for our laptops and phones. Besides, we can turn on remote service to control our devices in case that thieves steal our devices and try to decipher the passwords. The solution only needs a little intellectual cost.
+    
+  - Availability
+  
+    We can put large bags in the back trunk and bring phones and credit cards with us. The solution does not take any cost, while it is not safe at all if the thieves steal our keys or break our trunks.
+    
+  - Integrity
+  
+    We can upgrade car windows to be more hard and anti-theft, which is promising but requires some money.
